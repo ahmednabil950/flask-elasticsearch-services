@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/ahmednabil/.virtualenvs/dev3/bin/python",
+    "editor.rulers": [100],
+    "editor.fontSize": 12,
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontSize": 12
+}
